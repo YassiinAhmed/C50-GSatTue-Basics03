@@ -89,6 +89,9 @@ namespace Session03Task
             #endregion
 
             #region Question 8
+            //Given int pages = 464;, write an if / else statement that prints "Long Book" if pages is greater than
+            //300, otherwise prints "Short Book".
+
             int pages = 464;
 
             if (pages > 300)
